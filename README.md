@@ -1,1 +1,1 @@
-A literal follow-up with the official [documentation](https://yew.rs/getting-started/build-a-sample-app).
+A literal follow-up with the official [tutorial](https://yew.rs/docs/tutorial).
